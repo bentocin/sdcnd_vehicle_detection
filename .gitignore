@@ -2,3 +2,4 @@ vehicles/
 non-vehicles/
 object-dataset/
 object-detection-crowdai/
+*.p
